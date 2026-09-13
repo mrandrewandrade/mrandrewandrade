@@ -24,4 +24,4 @@ Consulting, teaching, and advisory roles around **AI/ML systems, data & analytic
 **University of Waterloo** — BASc, Honours Mechatronics Engineering, Management Science option, 2016  
 **National University of Singapore** — Engineering exchange, 2015
 
-A Lakehead professor once described teaching as learning while others are doing. I like that better than the old "those who can't do, teach" line: the best teaching keeps everyone doing, learning, and teaching each other.
+[Dr. Paul Cormier](https://www.lakeheadu.ca/users/C/pcormier/node/28121) at Lakehead introduced me to the idea of learning with each other while people are doing. I like that much better than the old "those who can't do, teach" line: the best teaching keeps everyone doing, learning, and teaching each other.
