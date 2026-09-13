@@ -1,15 +1,18 @@
-I'm glad you're here! I value connection as much as the product. Reach out via email, LinkedIn, or wherever you find me, in person or online.
-
 # Andrew Andrade
 
 **Systems Practitioner // Teacher & Learner**  
+
+I'm glad you're here! I value connection as much as the product. Reach out via email, LinkedIn, or wherever you find me, in person or online.
+
 [LinkedIn](https://www.linkedin.com/in/andrewandrade) // [Google Scholar](https://scholar.google.com/citations?user=5wWQg9YAAAAJ&hl=en) // [Full CV](CV.md)
 
-I live where people, systems, and information meet. Before teaching, I spent about eight years in industry: roughly a year interning, including at Suncor and Facebook, followed by seven years at Palantir. There I worked with fast-moving implementation teams, collaborated with product teams to improve the tools, and, most importantly, learned from very smart end users to help organizations change how they operated.
+I live where people, systems, and information meet. Before teaching, I spent about eight years in industry. After roughly a year of engineering internships, including at Suncor and Facebook, I dropped out of Waterloo Engineering to build a startup. We sold what we built; somehow, I made it back and graduated without losing time. That winding path led to seven years at Palantir.
 
-Much of that involved teaching machines to learn from data. Humans require a few more inputs; now I guide people to learn by doing, learn from one another, and eventually teach machines themselves. I care about making useful knowledge understandable, reusable, and freely available.
+At Palantir I built and deployed data and machine-learning systems, led fast-moving teams, worked with product teams, and learned from very smart end users to help organizations change how they operated.
 
-After internships at Suncor and Facebook, I dropped out of Waterloo Engineering to build a startup. We eventually sold what we built. Somehow, I made it back, graduated without losing time, and that winding path ultimately led me to Palantir. Along the way I also ended up with two U.S. patents and a University of Waterloo teaching award. The details are in LinkedIn and my CV.
+At first, the fun was building machines and teaching them to learn from data. Over time, the harder and more interesting part became people: leading teams, learning with end users, and helping organizations change. Teaching felt like a natural next step. Humans require a few more inputs, so now I guide people to learn by doing and from one another, so they can eventually teach machines themselves.
+
+I care about making useful knowledge understandable, reusable, and freely available. Along the way I also ended up with two U.S. patents and a University of Waterloo teaching award. The details are in LinkedIn and my CV.
 
 ## Open to
 
