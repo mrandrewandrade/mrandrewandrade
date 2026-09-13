@@ -1,9 +1,7 @@
 # Andrew Andrade
 
 **Systems Practitioner // Teacher & Learner**  
-Ontario, Canada  
-[Website](https://andrewandrade.ca) // [LinkedIn](https://www.linkedin.com/in/andrewandrade) // [Google Scholar](https://scholar.google.com/citations?user=5wWQg9YAAAAJ&hl=en) // [Ontario College of Teachers](https://apps.oct.ca/FindATeacher/memberdetail?id=740127)  
-Contact: `firstname@thisurl.ca`
+[LinkedIn](https://www.linkedin.com/in/andrewandrade) // [Google Scholar](https://scholar.google.com/citations?user=5wWQg9YAAAAJ&hl=en)
 
 [← Résumé](README.md)
 
@@ -22,7 +20,7 @@ I spent much of my career learning to teach machines from data. I now teach huma
 **Permanent High School Technology Teacher**  
 *Sep 2024-present, Mississauga, Ontario*
 
-Teach computer engineering, AI, robotics, control systems, transportation technology, technology design, and skilled trades.
+Teach computer engineering (AI, robotics & control systems), technology design, manufacturing, transportation technology, and skilled trades.
 
 **Long-Term Occasional Technology Teacher**  
 *Feb 2024-Jun 2024, Mississauga, Ontario*
@@ -151,9 +149,9 @@ Selected work includes:
 
 ## Education
 
+- **Lakehead University** - B.Ed., Technology Education, 2024.
 - **University of Waterloo** - BASc, Honours Mechatronics Engineering, Management Science option, 2016.
 - **National University of Singapore** - engineering exchange, 2015.
-- **Lakehead University** - B.Ed., 2024.
 
 ## Professional Registration
 
