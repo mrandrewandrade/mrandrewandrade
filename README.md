@@ -22,7 +22,7 @@ Before Palantir, I completed six four-month engineering internships through Wate
 
 At first, the fun was building machines and teaching them to learn. As I grew at Palantir, the more interesting part became people: leading teams, building trust, learning from users, and helping people change systems together. Teaching felt like a natural next step.
 
-Now I guide people to learn by doing and from one another, so they can build and teach machines themselves, and then I get to learn from them.
+Now I guide people to learn by doing and by learning from one another. They learn to build and teach machines, and in the process, I learn from them too.
 
 At Lakehead, I encountered an Indigenous methodology passed on through someone taught by [Dr. Paul Cormier](https://www.lakeheadu.ca/users/C/pcormier/node/28121):
 
