@@ -14,20 +14,22 @@ I have two U.S. patents, published research, and a University of Waterloo teachi
 
 ## Career
 
-I spent seven years at Palantir, building and deploying data and machine-learning systems, leading fast-moving implementation teams, working with product teams, and partnering with high-impact teams inside some of the world's largest corporations to implement organizational change through systems.
+I spent seven years at Palantir building and deploying data and machine-learning systems. I led fast-moving implementation teams, worked with product teams, and partnered with high-impact teams inside some of the world's largest corporations to implement organizational change through systems.
 
-Before that, Waterloo's co-op program gave me two years across six four-month engineering internships, including Suncor and Facebook. Somewhere in between, I dropped out of Waterloo Engineering to build a startup, sold what we built, returned, and somehow graduated without losing time.
+Before Palantir, I completed six four-month engineering internships through Waterloo's co-op program, including Suncor and Facebook. During Waterloo's five-year engineering program, I also dropped out to build a startup, sold what we built, returned, and somehow still graduated in five years.
 
 ## Teaching
 
-At first, the fun was building machines and teaching them to learn. Over time, people became the more interesting system. Teaching felt like a natural next step: I guide people to learn by doing and from one another, so they can build and teach machines themselves, and then I get to learn from them.
+At first, the fun was building machines and teaching them to learn. As I grew at Palantir, the more interesting part became people: leading teams, building trust, learning from users, and helping people change systems together. Teaching felt like a natural next step.
+
+Now I guide people to learn by doing and from one another, so they can build and teach machines themselves, and then I get to learn from them.
 
 At Lakehead, I encountered an Indigenous methodology passed on through someone taught by [Dr. Paul Cormier](https://www.lakeheadu.ca/users/C/pcormier/node/28121):
 
 **Kinoo'amaadawaad Megwaa Doodamawaad**  
 *They are learning with each other while they are doing.*
 
-*Kinoo'amaadawaad* can mean both learning with each other and teaching with each other; learning and teaching share the same meaning in this worldview. The only way to learn the way is to follow the way, together.
+*Kinoo'amaadawaad* can mean both learning with each other and teaching with each other. Learning and teaching share the same meaning in this worldview. The only way to learn the way is to follow the way, together. That is a very different idea from "those who can't do, teach."
 
 ## Open to
 
