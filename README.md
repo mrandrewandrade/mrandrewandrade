@@ -5,22 +5,25 @@ Ontario, Canada
 [Home](https://andrewandrade.ca) // [Commons](https://andrewandrade.ca/commons/) // [LinkedIn](https://www.linkedin.com/in/andrewandrade) // [Google Scholar](https://scholar.google.com/citations?user=5wWQg9YAAAAJ&hl=en) // [Full CV](CV.md)  
 Contact: `firstname@thisurl.ca`
 
-I focus on execution: reduce complicated systems to fundamentals, make them work, and teach them clearly.
+I focus on execution: reduce complicated systems to fundamentals, build useful tools, and help people and organizations change how they work.
 
 I spent much of my career teaching machines from data. Now I teach humans who are learning to teach machines.
 
-## Highlights
+## Work
 
-- **Permanent Technology Teacher, Peel District School Board**: computer engineering, AI, robotics, control systems, transportation technology, and skilled trades.
-- **Palantir Technologies, 2016-2023**: Data Scientist → Machine Learning & Data Engineering → Senior Data Analytics Lead; led teams delivering production data/ML systems across aviation, healthcare, energy, and financial services.
-- **University of Waterloo, 2016**: graduate Data Science & Big Data Analytics lab instructor; **Sandford Fleming Foundation Teaching Assistantship Excellence Award** recipient.
-- Sole inventor, **U.S. Patent 12,542,860**; co-inventor, **U.S. Patent 9,577,340**.
-- **Best Overall Canadian Co-op Student of the Year** for 2014; co-founded **PetroPredict**, an industrial machine-learning startup.
-- Built a Facebook manufacturing test system reported to save approximately **$1.4M per factory**; won the Open Compute Project / Facebook Hardware Hackathon.
+- **Technology Instructor, Peel District School Board**: computer engineering, AI, robotics & control, manufacturing, transportation, and skilled trades.
+- **Palantir Technologies, 2016-2023**: Data Scientist (Deployment Strategist) → Forward Deployed Engineering (data & ML systems) → analytics leadership. Helped create organizational change through data/ML tooling across energy, healthcare, aviation, and financial services.
+- **University of Waterloo, 2016**: graduate Data Science & Big Data Analytics lab instructor; recipient of the **Sandford Fleming Foundation Teaching Assistantship Excellence Award**.
+- **Earlier roles**: visiting researcher (Singapore University of Technology and Design); co-founder (PetroPredict); hardware manufacturing (Facebook); embedded software (Peraso); reservoir engineering (Suncor); manufacturing/R&D (Imtex); manufacturing (Chrysler); machining/CNC (Cantech Tool & Machine); aquatics instruction/supervision (City of Mississauga); teacher candidate (Hamilton-Wentworth District School Board).
+
+**Selected contributions:** two U.S. patents, including one as sole inventor, plus research in AI, optimization, autonomous systems, and applied engineering.
+
+## Education
+
+- **University of Waterloo**: BASc, Honours Mechatronics Engineering, Management Science option, 2016
+- **National University of Singapore**: Engineering exchange, 2015
+- **Lakehead University**: B.Ed., 2024
 
 ## Consulting & teaching
 
-Open to limited consulting and short-course teaching in **AI/ML systems, data & analytics, technical education, course design, and human-machine systems**.
-
-**University of Waterloo**: BASc, Honours Mechatronics Engineering  
-**Lakehead University**: teacher education, completed 2024
+Open to consulting, teaching, and advisory work in **AI/ML systems, data & analytics, technical education, organizational change, technical management, and human-machine systems**.
