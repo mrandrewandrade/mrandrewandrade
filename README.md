@@ -14,9 +14,9 @@ I have two U.S. patents, published research, and a University of Waterloo teachi
 
 ## Career
 
-Before teaching, I spent about eight years in industry: roughly a year of engineering internships, including Suncor and Facebook, then seven years at Palantir. In between, I dropped out of Waterloo Engineering to build a startup, sold what we built, returned, and somehow graduated without losing time.
+I spent seven years at Palantir, building and deploying data and machine-learning systems, leading fast-moving implementation teams, working with product teams, and partnering with high-impact teams inside some of the world's largest corporations to implement organizational change through systems.
 
-At Palantir, I built and deployed data and machine-learning systems, led fast-moving implementation teams, worked with product teams, and partnered with high-impact teams inside some of the world's largest corporations to implement organizational change through systems.
+Before that, Waterloo's co-op program gave me two years across six four-month engineering internships, including Suncor and Facebook. Somewhere in between, I dropped out of Waterloo Engineering to build a startup, sold what we built, returned, and somehow graduated without losing time.
 
 ## Teaching
 
