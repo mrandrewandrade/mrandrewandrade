@@ -2,11 +2,12 @@
 
 **Systems Practitioner // Teacher & Learner**
 
-LinkedIn: https://www.linkedin.com/in/andrewandrade
+LinkedIn: https://www.linkedin.com/in/andrewandrade  
+[Full CV](CV.md) // [Google Scholar](https://scholar.google.com/citations?user=5wWQg9YAAAAJ&hl=en)
 
-I'm glad you're here! I value connection as much as the product. Reach out via email, LinkedIn, or wherever you find me, in person or online. My email is on my GitHub profile.
+I'm glad you're here! I value connection as much as the product. Reach out via email, LinkedIn, or wherever you find me, in person or online. My email is on my [GitHub profile](https://github.com/mrandrewandrade).
 
-I live where people, systems, and information meet. I care about making useful knowledge understandable, reusable, and freely available so people can use it.
+I live where I am: usually where people, systems, and information meet. I care about making useful knowledge understandable, reusable, and freely available so people can use it.
 
 I have two U.S. patents, a couple of published research papers, and a University of Waterloo teaching award.
 
@@ -32,5 +33,3 @@ Consulting, teaching, and advisory roles around **AI/ML systems, data & analytic
 **Lakehead University**: B.Ed., Technology Education, 2024  
 **University of Waterloo**: BASc, Honours Mechatronics Engineering, Management Science option, 2016  
 **National University of Singapore**: Engineering exchange, 2015
-
-[Full CV](CV.md) // [Google Scholar](https://scholar.google.com/citations?user=5wWQg9YAAAAJ&hl=en)
