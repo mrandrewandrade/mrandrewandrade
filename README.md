@@ -2,8 +2,7 @@
 
 **Systems Practitioner // Teacher & Learner**
 
-LinkedIn: https://www.linkedin.com/in/andrewandrade  
-[Full CV](CV.md) // [Google Scholar](https://scholar.google.com/citations?user=5wWQg9YAAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/andrewandrade) // [Full CV](CV.md) // [Google Scholar](https://scholar.google.com/citations?user=5wWQg9YAAAAJ&hl=en)
 
 I'm glad you're here! I value connection as much as the product. Reach out via email, LinkedIn, or wherever you find me, in person or online. My email is on my [GitHub profile](https://github.com/mrandrewandrade).
 
