@@ -151,10 +151,9 @@ Selected work includes:
 
 ## Education
 
-- **Lakehead University** - teacher education, completed 2024.
-- **University of Waterloo** - BASc, Honours Mechatronics Engineering.
+- **University of Waterloo** - BASc, Honours Mechatronics Engineering, Management Science option, 2016.
 - **National University of Singapore** - engineering exchange, 2015.
-- **Y Combinator Startup School** - 2014 cohort.
+- **Lakehead University** - B.Ed., 2024.
 
 ## Professional Registration
 
